@@ -1,6 +1,6 @@
 # Pathfinding Visualizer
 
-LINK: https://algo-path-finder-visualiser.netlify.app/
+LINK:https://algo-visualisr.netlify.app/
 
 ## Overview
 
